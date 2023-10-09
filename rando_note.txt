@@ -1,0 +1,519 @@
+https://godbolt.org/
+https://www.w3schools.com/
+https://www.tutorialspoint.com/index.htm | https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm
+https://stackoverflow.com/
+
+google.com/
+bing.com/
+
+C++ mingw32 | https://www.cplusplus.com/doc/tutorial/arrays/
+C# | https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
+Python | 
+javascript - console.log interface | https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+
+IDE : visual-studio-community | esclipe | mention netbeans - codeblocks - etc
+Text Editor : Visual-studio-code notpad++ - mention vim nano macro-MIT atom 
+
+Github - Gitlab
+
+
+balder's gate - co-op player progression that is not tie to 
+Players interacting with each other
+
+
+
+Avencast: Rise of the Mage // game idea
+
+workflow : 
+blender to unity 
+blender to unreal 
+blender to cura 
+
+
+With project in blender open 
+
+gladitor game -> twitch intergation + We Who Are About To Die game
+add multiplayer
+
+
+
+Retargeting skeleton (Modular framework) 
+Key animation with linear interpolation on the between frames
+Ragdoll on object collision
+Basic movement -> cinemachine camera intergration
+
+
+Basic physic implementation
+context | command input controls 
+
+
+
+
+
+
+shader - tile rotate texture map based on sides of 
+camera screen.
+
+
+
+The Abyss 2 
+Lost cities
+Waystones
+Materialis
+Deeper Nether Biomes
+Undergarden
+Nature's Compass
+The Graveyard
+Moonlight Lib
+Tinkers Construct
+Blood Magic
+Botania
+Ars Nouveau
+Ars Arsenal
+Ars Creo
+Ars Elemental
+Ars Instrumentum
+Ars Omega
+Create
+Just Another Rotten Flesh to Leather Mod
+JEITweaker
+JEI Integration
+JEI Enchantment Info
+Just Enough Keys [JEK] [Forge]
+Just Enough Effect Descriptions (JEED)
+Just Enough Items (JEI)
+Just Enough Professions (JEP)
+Just Enough Resources (JER)
+Just Needed (FORGE)
+Waterlogged Redstone
+FTB Quests (Forge)
+FTB Teams (Forge)
+FTB Library (Forge)
+Bone Torch
+Reliquary Reincarnations
+Mowzie's Mobs
+Gateways to Eternity
+
+
+Mob Farm Helpers (Forge)
+Pam's HarvestCraft 2
+
+
+Quark Oddities
+AI Improvements
+Creeper Overhaul
+CreeperHost Presents Chickens
+It Shall Not Tick (ISNT)
+Get It Together, Drops!
+Better Beacon Placement (Forge)
+Raided
+Meet Your Fight
+L_Ender 's Cataclysm
+Zombie Awareness
+Straw Golem Rebaled - Forge
+Dusk[Forge/Fabric]
+Earth Mobs
+Illagers Wear Armor
+It Takes a Pillage
+Savage & Ravage
+AntiGhost
+Spice of Life: Carrot Edition
+SwingThroughGrass
+Akashic Tome
+AutoRegLib
+Morph-o-Tool
+Aquaculture 2
+Budschie's Morph Mod
+Macaws
+Item Filters
+Placeable Items
+Lootr (Forge)
+Morph-o-Tool
+AppleSkin
+Let Me Despawn
+Clear Despawn [Forge]
+Inventory HUD+
+Inventory Essentials
+Inventory Sorter
+Keyboard Wizard
+Time in a bottle standalone
+Medieval Craft
+Crafting Tweaks
+CraftTweaker
+Better Safe Bed
+Better With Minecolonies [Forge]
+Better Invisibility
+Btter Spawner Control
+Better Animals Plus
+Better Advancements
+BetterF3
+Config Menus for Forge
+Smooth Boot (Reloaded)
+Chunk-Pregenerator
+Entity Collision FPS Fix
+Bow Infinity Fix (Forge/Fabric)
+FixMySpawnR
+All Arrows Infinity Fix
+Suggestion Provider Fix
+Potion ID Packet Fixer
+Dungeons Content
+Serene Seasons
+Blue Skies
+Enhanced Celestials - Blood, Blue, & Harvest (Super
+Creatures and Beasts
+Rotten Creatures
+Jade 
+Aquamirae
+Obscure API
+Galosphere
+Duckling
+Corail Woodcutter
+Mouse Tweaks
+Controlling
+Clumps
+Enchantment Descriptions
+AttributeFix
+Corail Tombstone
+Configured
+Catalogue
+Entity Culling Fabric/Forge
+Better Compatibility Checker
+Trading Post
+Pick Up Notifier
+Game Menu Mod Option [Forge]
+Dynamic View[Forge]
+More Villagers
+More Overlays Updated
+More Minecarts and Rails
+ChoiceTheorem's Overhauled Village
+Suggestion Tweaker
+Ore Tweaker
+Industrial Foregoing Tweaker
+Music Duration Reducer
+Music Maker Mod
+FPS Reducer
+Mod Name Tooltip
+Game Menu Mod Option [Forge]
+Default Options
+Entity View Distance
+Chunky (Forge)
+Chunk Animator
+Server Performance - Smooth Chunk Save[Forge
+Better Fps - Render Distance
+Additional Bars
+Additional Bars - Biomes O' Plenty
+Biomes O' Plenty
+Oh the Biomes you'll go
+BiomeTweaker
+Better Biome Blend
+BiomeInfo
+Valhelsia Structures
+The Undergarden
+The Graveyard (FORGE)
+Castle in the Sky
+The Lost Cities
+Illagers Wear Armor
+Goblins & Dungeons
+Just Another Nether/Overworld/End Ores
+Enlightened End
+End Remastered
+Zaynen's One Minute Respawn Immunity
+Villagers Respawn (Now with FORGE
+Village Bell Recipe (Forge)
+More Villager Trades
+Better Villages - Forge
+Guard Villagers
+Waystones - https://gist.github.com/ChoiceTheorem/3875c53cac91812b6ba937a9561bf37a
+Awesome Dungeon
+Dungeons Content
+Integrated Dungeons and Structures
+Dungeons Plus
+Stalwart Dungeons
+When Dungeons Arise
+Repurposed Structures
+Towns and Towers
+Structory
+Small Ships [Fabric & Forge]
+Terrarian Floating Island
+Terralith
+TerraBlender
+DisenchantingForge
+Max Health Fix
+Fix Experience Bug 
+
+Dynamic Trees - Biomes O' Plenty
+Dynamic Trees
+Endless Biomes
+
+
+Immersive Engineering
+Just Enough Immersive Multiblocks
+
+
+Mystical Agriculture
+Mystical Agradditions
+Mystical Agriculture Tiered Crystals
+
++
+Occultism
+ProjectE
+Origins
+Extra Classes - Origins
+Gateways to Eternity
+Applied Botanics Addon
+Angel Ring
+Geode
+Hex Casting
+Caged Mobs
+Obscuria 
+Obscuria's Essentials
+Epic Fight
+Epic Knights: Shields, Armor and Weapons
+End Portal Recipe (Forge)
+Wormhole 
+EverlastingAbilities
+Domum Ornamentum
+Alex's Mobs
+Citadel
+CleanCut
+Guard Villagers
+Mana and Artifice
+Multi-Piston
+Patchouli
+Industrial Agriculture
+Simple Shops
+Small Ships [Fabric & Forge]
+Sophisticated Backpacks
+Medieval Craft
+
+-
+Eldritch Mobs
+Cyclic
+
+QOL:
+Better Combat [Fabric & Forge]
+Extreme sound muffler (Forge)
+Gauges and Switches
+Super Circuit Maker
+NetherPortalFix
+Construction Wand
+SwingThroughGrass
+HarvestCraft Waila Fixes
+Wawla - What Are We Looking At
+Waila Harvestability
+Wasaila
+WAILA Plugins
+WAILA-features
+View EMC
+Explorer's Compass
+AntiGhost
+Observable
+Item Highlighter
+JourneyMap Integration
+Server Performance - Smooth Chunk Save[Forge/Fabric]
+Starter Kit (Forge)
+Farsight [Forge]
+Dark UtiliAquaculture 2
+Patchouli
+FallingTree (Forge&Fabric)
+Ore Excavation
+Structurize
+Cooking for Blockheads
+Clumps
+Supplementaries
+Mouse Tweaks
+Eccentric Tome
+XP Tome
+Item Collectors
+Compressium
+Refined Cooking
+Boatload
+Experience Obelisk
+Portable Tanks 
+Refined Pipes 
+Golden Hopper
+Ender Mail
+More Buckets
+Inventory Sorting
+Improved Stations (Forge)
+Large Fluid Tank
+Scalable Cat's Force
+Chisels & Bits - For Forge
+Compact Machines
+Refined Storage: Requestify
+Ex Compressum
+Oxidized
+JAOPCA
+Almost Unified
+PackagedAuto
+Click Machine
+Extractinator
+Torcherino
+Better Fusion Reactor for Mekanism
+Simply Jetpacks 2
+OpenBlocks Elevator
+Craft the Totem of Undying [FORGE & FABRIC]
+Extra Utilities Reborn
+Corail Recycler
+ViesCraft Machines
+Wall-Jump! [FORGE]
+Just A Raft Mod
+Connectivity[Forge/Fabric]
+TelePastries
+Travel Anchors
+More Minecarts and Rails
+Multi-Piston
+Speedy Ladders
+Simple Planes (Forge)
+Speed Building - Scaffolding behavior
+Fans mod
+Recall [Forge]
+Realistic Horse Genetics
+Dimensional Paintings
+RFTools Control
+An Origins Addon - Apocalypse
+Refined Storage Addons
+Trash Cans
+Ranged Pumps
+LaserIO
+Wireless Chargers
+Energy Meter
+Solar Generation
+Universal Grid
+UPC
+Solar Energy
+Modular Force Fields Systems
+Pam's HarvestCraft 
+Spice of Life: Carrot Edition
+Nether's Delight
+Farmer's Delight
+Bonsai Trees 3
+RightClickHarvest
+AgriCraft
+Ender Crop
+Quantum Quarry Plus
+ME Requester
+Little Logistics
+
+
+CB:
+ArmorPlus
+Archer's Paradox
+
+Tech:
+Resourceful Bees
+Thaumcraft 
+Forestry
+FE Transformer
+Wireless Networks
+Charger
+AE additions
+Charging Gadgets
+Flux Networks
+XNet
+Beyond Earth
+Mekanism Matter
+Assembly Line Machines
+Pollution of the Realms
+CC:C Bridge
+Lazier AE2
+Integrated Crafting
+Applied Mekanistics
+Thermal Expansion
+
+Tinkers Construct
+Thermal Foundation
+Applied Energistics 2
+Extreme Reactors
+Bigger Reactors
+Immersive Petroleum
+Productive Bees
+Ex Nihilo: Sequentia
+MineColonies
+Mekanism
+Industrial Foregoing
+Pipez
+Integrated Tunnels
+ExtraStorage
+Applied Cooking
+AE2 Extras
+Compacter
+Masterful Machinery
+Solar Flux Reborn
+Futurepack Mod - Now with flyable Spaceships!
+Advanced Solar Panels
+Advanced Peripherals
+
+
+
+
+Storage:
+Simple Storage Network
+Refined Storage
+Storage Drawers Mod
+Ender Storage 1.8.+
+More Storage Drawers
+Functional Storage
+Sophisticated Backpacks
+Trash Cans
+RSInfinityBooster
+RFTools Storage
+Extra Disks
+MEGA Cells
+Universal Grid
+Dank Storage
+Reborn Storage
+DimStorage
+Tesseract 
+ITank
+Pretty Pipes: Fluids
+
+
+Dimensions:
+The Bumblezone (Quilt/Fabric)
+Paradise Lost
+RFTools Dimensions
+Unusual End
+Nether's Exoticism
+Mobs:
+Champions
+Bosses of Mass Destruction
+Mob Grinding Utils
+Naturalist
+
+
+
+
+
+Ore: 
+Ore Tweaker
+World Stripper
+Data Attributes
+
+
+Minecraft mob:
+Waves of enemies spawn
+
+Magic dart better for no healing than blood rush 
+
+3 prayer - antiposion
+rune battleaxe - pet rock
+strawberry 3 baskets
+rest high healing 
+
+
+world is hard
+life is hard 
+sometimes the small things are just enough to keep going
+
+path of champion / doing pve run
+risk of rain / items for enemies
+
+
+
+
+
+
+

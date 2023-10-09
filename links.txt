@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/23306653/python-accessing-nested-json-data
+
+https://www.youtube.com/watch?v=B_6xXNTB7dc&list=PLFt_AvWsXl0f4c56CbvYi038zmCmoZ4CQ&index=8
+https://www.youtube.com/watch?v=w6_fetj9PIw&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7&index=7
+https://www.youtube.com/watch?v=6ztY9-IX3Qg
+https://www.youtube.com/watch?v=YdERlPfwUb0
+
+https://www.tutorialspoint.com/Explain-Cplusplus-Singleton-design-pattern

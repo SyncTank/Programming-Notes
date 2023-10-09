@@ -1,0 +1,118 @@
+public void ServiceNowUserInterace()
+{
+
+ServiceNow User Interface Overview 
+-
+FIU AskIT User Interface Overview
+
+ServiceNow page is displayed 
+	Banner
+	Content Frame
+
+Banner
+	Logo
+	Navigation menus
+	content title
+	User menus
+	help & notifcations
+
+Search menus
+	Applications are top items
+	Modules are part of app
+Application > Category > Module
+
+Lists display records from a table.
+	Lists are:
+	Searchable
+	Sortable
+	Editable (if permissions allow)
+
+form is content page displaying data of a record 
+	May have sections, render at bottom of form. "Notes / Related Records"
+	
+Form may have multiple layouts for different users
+Self Service users do not require a license in order to see record
+
+}
+
+public void StudioOverview()
+{
+	
+Studio user interface
+	Header
+	Application Explorer
+	Content Frame
+	Status Bar
+	
+Fields can be added to tables
+Form Designer
+	Create form layouts
+	create form views
+	create and delete form sections
+	add fields to tables
+	
+}
+
+private void AppEngineStudio()
+{
+Low code development environment
+
+Within Studio Devs can
+	see files that comprise application in the explorer
+	add new files to their application using single interface
+	naviagate to files using famailar features
+	find code both within and outside an app
+	operate on multiple files at once 
+	operate on app at once 
+	publish apps to company instance 
+	view info of current app
+
+AppEngineStudio
+	See detailed list of apps
+	create or import apps into environment
+	Use quick menu to start a task
+	
+Provides more tooling
+	UI
+	table
+	catalog
+	flow
+	mobile app
+
+Development process
+	Development Instance - >
+	< - Test Instance - >
+	Production Instance 
+	
+App Engine Studio (AES) requires a license
+can be installed from the ServiceNow Store
+
+AES relations
+	Application Intake
+	Pipelines & deployments
+	App Engine Management Center
+	
+Development instance
+	AES
+	pipline & deployment plugins
+Production
+	Perform application intake
+	pipline
+Dev
+	non-prod task of pipeline
+Test
+	pipline
+	non-prod task of pipeline 
+non-prod in pipeline
+	install pipeline
+	non-prod task pipeline
+	
+Application Intake
+	helps admins approve and track take requests
+	
+Pipelines and deployments
+	automate the propagation and intalltion of your application
+
+AEMC easily visualize and manage end to end dev
+
+}

@@ -1,0 +1,57 @@
+Digital systems have more accuracy and reliability than analog
+
+This is due to the nature of analog systems assuming values 
+between two points. 
+I.E output voltage 
+0v - 5v in digital only 2 values
+-10v - +10v analog any between 
+
+Limitations of analog is base on hardware
+digital allows redesign 
+
+Analog collects floating points which which causes erros in 
+calculation.( fractions to percent )
+
+Digital system subsystems take form of a switching circuit
+
+Combinational circuit : 
+output values depend only on present value of inputs and not past
+
+Sequential circuit :
+depends on both present and past inputs values 
+
+Inputs values need to be specified for Sequential
+Have memory as it references past sequence of inputs 
+
+Combinational no memory
+
+Logic gates are basic buildng block for circuit
+Relationship between input to output signals be described boolean alg
+
+Laws & theorems of Boolean algebra show and describe behavior
+of circuits of logic gates.
+
+First step designing combinational logic circuit
+Derive table or algebraic logic equation
+This describes the circuit output as a function of circuit input
+
+logic equation which describe circuit outputs must be simplified
+
+flip-flops are the basic memory elements used in design of sequential circuits
+Can be interconnected with gates to form counters & registers
+
+First step in design is to construct state table or graph.
+This describes the relationship between input & output sequences.
+
+sequential circuits design in txt are synchronous sequential
+Common timing signal called clock used for synchronize operation of memory
+
+Binary & number systems are natural to digital systems
+
+Binary coded decimal (BCD) is the representation of numbers in binary
+
+VHDL = VHSIC hardware describe language
+VHSIC = very high speed integrated circuit
+
+
+

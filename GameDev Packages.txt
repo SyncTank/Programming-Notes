@@ -1,0 +1,89 @@
+QuickOutline - Ye
+Pass cs only
+
+Game module is built on
+Main menu - 
+	Start
+	Exit
+	Options
+Pause - ?
+	Options 
+	Return to menu
+Options -
+	Audio
+	Controls
+	Graphics
+Audio -
+	Master Audio
+	Specific Audio
+	Mic ?
+Controls - 
+	Control list
+	KeyBinds
+	Confirmation
+Graphic - 
+	Render
+	Etc
+Systems -
+	Camera
+	CharacterController
+	EventSystem
+	GameManager
+	
+
+-------# Attributes #-----
+
+Attributes 
+https://unity3d.college/2017/05/22/unity-attributes/
+	
+-------# Addressable #-----
+
+create a setting
+
+add adressables and name it better
+build
+
+Code : List of AssestReference / readonly Dictionary of AssestReference
+
+-------# Packages #-----
+
+Modular - Fine for base Import only prefab && script
+Mini First PersonController - Fine for base, import only scripts audio
+
+Note : Import into another basic build
+EasyCharacterMovement - Good, made for player && agents. Use
+KinematicCharacterController - Good, Ai extras
+
+Note : Remove Examples
+Graphy - All
+FastScriptReload - All
+
+-------# Actions / Events #-------
+
+
+
+------# Physics #------
+
+FixedUpdate do AddForce 
+AddForce for physics objects smooths collisions as movement gets add during simulation
+
+LateUpdate for Camera with a added offset
+
+-------# Unitys Input System #-----
+
+Input Actions
+Define a input action map
+
+Callbacks - Started, performed, canceled
+Type Depent InputActionType.(Value/Button/PassThrough)
+
+Use Unitys PlayerInput component over script
+Harder to rebind if script, since JSON file rebind.
+Behavior type as C# events store Inputs actions as C# actions
+
+When using the NewInput system, on UI use. Change EventSystem Action asset
+
+disable old input once ready 
+
+
+

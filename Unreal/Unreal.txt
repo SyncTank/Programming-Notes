@@ -1,0 +1,40 @@
+https://www.gamedev.tv/courses/1638644/lectures/39207553
+
+Game module is built on
+Main menu - 
+	Start
+	Exit
+	Options
+Pause - ?
+	Options 
+	Return to menu
+Options -
+	Audio
+	Controls
+	Graphics
+Audio -
+	Master Audio
+	Specific Audio
+	Mic ?
+Controls - 
+	Control list
+	KeyBinds
+	Confirmation
+Graphic - 
+	Render
+	Etc
+Systems -
+	Camera
+	CharacterController
+	EventSystem
+	GameManager
+	
+
+
+
+	
+	
+	
+	
+	
+	
