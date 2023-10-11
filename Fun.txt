@@ -227,3 +227,24 @@ scho
 Gamdev
 video on courses replit
 
+
+Code Projects : 
+Text Editor
+Chat Client
+WebAPP reads spotify music playing
+Todo list with gui
+Runescape plugins
+CLI config for neovim
+OSRS / League Database
+
+
+
+
+
+
+
+
+
+
+
+
