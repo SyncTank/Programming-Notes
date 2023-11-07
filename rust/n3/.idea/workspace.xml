@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1c42127-898c-4a80-8498-5200ca53c5b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Golang/N1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Golang/N1/.idea/N1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Golang/N1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Golang/N1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Golang/N1/N1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/T1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/T1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/n3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/bin/Debug/net7.0/T1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/T1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/ref/T1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/ref/T1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/refint/T1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/Debug/net7.0/refint/T1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/T1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/T1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/T1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/T1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cpp/Projects/Test/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cpp/Projects/Test/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../n1/help.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="cwuc6qzj" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2X90q9Un5nKrkRgWswCYta0AeDy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cargo.Run.executor": "Run",
+    "Cargo.check.executor": "Run",
+    "Cargo.search.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Development/Programming Notes/rust/n3",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo check" />
+      <command value="cargo search" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cargo.search">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package n3 --bin n3" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="check" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="search" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.search" />
+        <item itemvalue="Cargo.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c42127-898c-4a80-8498-5200ca53c5b1" name="Changes" comment="" />
+      <created>1698026175319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698026175319</updated>
+      <workItem from="1698026176587" duration="187000" />
+      <workItem from="1698171515638" duration="71000" />
+      <workItem from="1698812771338" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
