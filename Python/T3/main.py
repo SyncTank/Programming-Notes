@@ -1,16 +1,30 @@
-# This is a sample Python script.
+def get_english_grade(student):
+    def getValue(dict):
+        for item in dict.values():
+            if type(item) is type({}):
+                if "English_1010" in item:
+                    return item["English_1010"]
+                else:
+                    return getValue(item)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+    studentGrade = getValue(student)
 
+    return studentGrade["current_grade"]
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+s = {
+    "type": {
+        "student": {
+            "name": "Allan",
+            "courses": {
+                "math_1050": {
+                    "current_grade": "B",
+                },
+                "English_1010": {
+                    "current_grade": "A-",
+                },
+            },
+        }
+    }
+}
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(get_english_grade(s))

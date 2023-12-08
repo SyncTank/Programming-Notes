@@ -7,6 +7,12 @@ function onLoad()
 		{
 			stateLabel.style.color = 'red';
 			stateLabel.style.fontWeight='bold';
+		
+			
+		
+		
+		
+		
+		
 		}
-	
 }

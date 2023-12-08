@@ -235,7 +235,9 @@ WebAPP reads spotify music playing
 Todo list with gui
 Runescape plugins
 CLI config for neovim
+OSRS plugins
 OSRS / League Database
+Phone app list clocks with name under 
 
 alex looking for 3d artist
 Manny job
